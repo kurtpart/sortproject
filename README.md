@@ -29,7 +29,7 @@ Time Complexity: Average case
 [2,3,4,5,6,9,8,15,7]
 
 
--------------------------
+
 ## Merge Sort Projesi
 [16,21,11,8,12,22] -> Merge Sort
 
@@ -42,4 +42,8 @@ Time Complexity: Average case
 ---------------------------
 O(logn)
 
+## Binary Search Tree
+[7, 5, 1, 8, 3, 6, 0, 9, 4, 2] dizisinin Binary-Search-Tree aşamalarını yazınız.
 
+
+* root'u 7 alırsak sağında 8 ve 9 bulunur. solunda 0, 1, 2, 3, 4, 5 ve 6 bulunur.
